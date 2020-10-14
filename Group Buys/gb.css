@@ -129,7 +129,9 @@ html {
     
     display: flex; 
     
-    flex-direction: row; 
+    flex-direction: row;
+
+    animation: loadIn 1.5s;
 }
 
 .gallery figure { 
